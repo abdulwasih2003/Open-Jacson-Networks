@@ -1,29 +1,3 @@
-Exp.No : 06 
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-Date : 24.05.2023
-<br>
-
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -50,10 +24,7 @@ Visual components and Python
 ![](1.png)
 
 ## Program
-```python
-developed by : Kaushika A
-reg no: 212221230048
-```
+
 ```python
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder(in secs):"))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :"))
